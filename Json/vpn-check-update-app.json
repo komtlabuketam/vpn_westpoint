@@ -1,0 +1,18 @@
+{
+  "data": {
+    "app_info": [
+      {
+        "what_news": "-Bug fixeds",
+        "force_update": "false",
+        "package_name": "com.westpoint.vpn.ipchanger",
+        "version_code": 1,
+        "version_name": "6.0",
+        "new_package_name": "com.westpoint.vpn.ipchanger"
+      }
+    ]
+  },
+  "meta": {
+    "message": null,
+    "success": 1
+  }
+}
